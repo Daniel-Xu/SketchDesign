@@ -21,6 +21,12 @@ Source File is in the related subdirectory.
 ![Vector Icon](./vector icon/vectoricon.png)
 
 
-#### Day 3: Safari Icon (01/28/2015)
+#### Day 4: Safari Icon (01/28/2015)
 
 ![Vector Icon](./safari icon/safariicon.png)
+
+
+#### Day 5: Tomato (01/29/2015)
+
+![Vector Icon](./tomato/tomato.png)
+
