@@ -28,5 +28,5 @@ Source File is in the related subdirectory.
 
 #### Day 5: Tomato (01/29/2015)
 
-![Vector Icon](./tomato/tomato.png)
+![Vector Icon](./Tomato/Tomato.png)
 
