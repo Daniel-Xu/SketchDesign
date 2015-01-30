@@ -30,3 +30,7 @@ Source File is in the related subdirectory.
 
 ![Vector Icon](./Tomato/Tomato.png)
 
+
+#### Day 6: Tomato (01/30/2015)
+
+![Vector Icon](./colorfulicon/colorfulicon.png)
