@@ -34,3 +34,8 @@ Source File is in the related subdirectory.
 #### Day 6: Tomato (01/30/2015)
 
 ![Vector Icon](./colorfulicon/colorfulicon.png)
+
+
+#### Day 7: Tomato (01/31/2015)
+
+![Vector Icon](./Ball/Ball.png)
