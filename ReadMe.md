@@ -31,11 +31,15 @@ Source File is in the related subdirectory.
 ![Vector Icon](./Tomato/Tomato.png)
 
 
-#### Day 6: Tomato (01/30/2015)
+#### Day 6: Colorfulicon (01/30/2015)
 
 ![Vector Icon](./colorfulicon/colorfulicon.png)
 
 
-#### Day 7: Tomato (01/31/2015)
+#### Day 7: Ball (01/31/2015)
 
 ![Vector Icon](./Ball/Ball.png)
+
+#### Day 7: Phoenix from PirateBay(02/1/2015)
+
+![Vector Icon](./phoenix/phoenix.png)
