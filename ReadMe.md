@@ -40,6 +40,10 @@ Source File is in the related subdirectory.
 
 ![Vector Icon](./Ball/Ball.png)
 
-#### Day 7: Phoenix from PirateBay(02/1/2015)
+#### Day 8: Phoenix from PirateBay(02/1/2015)
 
 ![Vector Icon](./phoenix/phoenix.png)
+
+#### Day 9: Pencil(02/2/2015)
+
+![Vector Icon](./Pencil/Pencil.png)
